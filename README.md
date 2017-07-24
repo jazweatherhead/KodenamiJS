@@ -15,3 +15,9 @@ Kodenami constantly scans for keypresses. When it finds the one that starts the 
 3) Put what you want to happen when someone correctly enters the code in onSuccess().
 
 3) Now the code will trigger anything you set it to (like showing a hidden div, for example) any time a user enters it correctly (and fast enough).
+
+## Neat!
+I know, right?
+
+## Thanks!
+Don't mention it.

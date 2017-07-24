@@ -2,6 +2,8 @@
 
 ## Huh?
 Kodenami lets you awesome up your site with a secret code from 80s!
+Don't let all that muscle memory go to waste!
+
 You can use this to hide Easter Eggs of many kinds all over your site. It's fun!
 
 ## Demo?
@@ -22,5 +24,4 @@ Kodenami constantly scans for keypresses. When it finds the one that starts the 
 ## Neat!
 I know, right?
 
-## Thanks!
-Don't mention it.
+KodenamiJS. Because you can't beat the web with just 3 lives.

@@ -10,7 +10,7 @@ Kodenami constantly scans for keypresses. When it finds the one that starts the 
 ## No I mean specifically how?
 1) In your HTML link to jQuery and Kodenami in that order.
 
-2) (OPTIONAL) Set the time variable in the config object at the head of kodenami-X.X.js to tweak the difficulty.
+2) (OPTIONAL) Change the time variable in the config object at the head of kodenami-X.X.js to tweak the difficulty.
 
 3) Put what you want to happen when someone correctly enters the code in onSuccess().
 

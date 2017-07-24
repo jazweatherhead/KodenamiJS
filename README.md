@@ -1,10 +1,8 @@
 # KodenamiJS
 
 ## Huh?
-Kodenami lets you awesome up your site with a secret code from 80s!
-Don't let all that muscle memory go to waste!
-
-You can use this to hide Easter Eggs of many kinds all over your site. It's fun!
+Kodenami lets you awesome up your site with a secret code from 80s.
+Don't let all that muscle memory go to waste. You can use this to hide Easter Eggs of many kinds all over your site. It's fun!
 
 ## Demo?
 http://kodenamijs.com

@@ -21,4 +21,4 @@ Kodenami constantly scans for keypresses. When it finds the one that starts the 
 ## Neat!
 I know, right?
 
-KodenamiJS. Because you can't beat the web with just 3 lives.
+**KodenamiJS. Because you can't beat the web with just 3 lives.**

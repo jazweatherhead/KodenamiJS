@@ -53,6 +53,7 @@ setInterval(function () {
   }
 }, config.time_to_enter_key)
 
+/* handle keys */
 jQuery(document).bind('keydown', function (e) {
   var kc = e.keyCode
   if (kc === code[code_ndx]) { // if kc is next in sequence

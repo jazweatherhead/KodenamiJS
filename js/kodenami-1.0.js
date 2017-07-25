@@ -56,7 +56,7 @@ setInterval(function () {
 jQuery(document).bind('keydown', function (e) {
   var kc = e.keyCode
   if (kc === code[code_ndx]) { // if kc is next in sequence
-    var keyname = keynames[kc]
+    // var keyname = keynames[kc]
     
     /* set time of last successful keypress */
     var date = new Date()

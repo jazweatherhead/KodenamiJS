@@ -19,15 +19,15 @@ var code = [ // sequential keycodes required to activate code
   65,
   13
 ]
-// var keynames = {
-//   37: 'Left',
-//   38: 'Up',
-//   39: 'Right',
-//   40: 'Down',
-//   66: 'B',
-//   65: 'A',
-//   13: 'Start'
-// }
+var keynames = {
+  37: 'Left',
+  38: 'Up',
+  39: 'Right',
+  40: 'Down',
+  66: 'B',
+  65: 'A',
+  13: 'Start'
+}
 var entered = []
 var code_ndx = 0
 var time_of_last_code_keypress
@@ -56,7 +56,7 @@ setInterval(function () {
 jQuery(document).bind('keydown', function (e) {
   var kc = e.keyCode
   if (kc === code[code_ndx]) { // if kc is next in sequence
-    // var keyname = keynames[kc]
+    var keyname = keynames[kc]
     
     /* set time of last successful keypress */
     var date = new Date()

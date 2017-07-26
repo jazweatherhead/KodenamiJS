@@ -18,6 +18,9 @@ Kodenami constantly scans for keypresses. When it finds the one that starts the 
 
 3) Now the code will trigger anything you set it to (like showing a hidden div, for example) any time a user enters it correctly (and fast enough).
 
+## My arrow keys don't work!
+They work, I just told them to do something else. If you want your precious keys back (all 7 of them) just comment out all the lines with e.preventDefault() on them
+
 ## Neat!
 I know, right?
 

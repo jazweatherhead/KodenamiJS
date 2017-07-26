@@ -72,35 +72,35 @@ jQuery(document).bind('keydown', function (e) {
     entered = [] // reset on wrong key
   }
 
-  /* Uncomment for testing */
-  // if (e.keyCode === 37) {
-  //   e.preventDefault()
-  //   console.log('left!')
-  // }
-  // if (e.keyCode === 38) {
-  //   e.preventDefault()
-  //   console.log('up!')
-  // }
-  // if (e.keyCode === 39) {
-  //   e.preventDefault()
-  //   console.log('right!')
-  // }
-  // if (e.keyCode === 40) {
-  //   e.preventDefault()
-  //   console.log('down!')
-  // }
-  // if (e.keyCode === 66) {
-  //   e.preventDefault()
-  //   console.log('b!')
-  // }
-  // if (e.keyCode === 65) {
-  //   e.preventDefault()
-  //   console.log('a!')
-  // }
-  // if (e.keyCode === 13) {
-  //   e.preventDefault()
-  //   console.log('start!')
-  // }
+  /* Comment out to make it pipe down */
+  if (e.keyCode === 37) {
+    e.preventDefault()
+    console.log('left!')
+  }
+  if (e.keyCode === 38) {
+    e.preventDefault()
+    console.log('up!')
+  }
+  if (e.keyCode === 39) {
+    e.preventDefault()
+    console.log('right!')
+  }
+  if (e.keyCode === 40) {
+    e.preventDefault()
+    console.log('down!')
+  }
+  if (e.keyCode === 66) {
+    e.preventDefault()
+    console.log('b!')
+  }
+  if (e.keyCode === 65) {
+    e.preventDefault()
+    console.log('a!')
+  }
+  if (e.keyCode === 13) {
+    e.preventDefault()
+    console.log('start!')
+  }
 
   if (compareArraysByValue(code, entered)) {
     code_ndx = 0

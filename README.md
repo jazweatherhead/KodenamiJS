@@ -26,4 +26,4 @@ I know, right?
 
 **KodenamiJS. Because you can't beat the web with just 3 lives.**
 
-*Jasmyn Weatherhead has made hundreds of apps. If you need help with yours she’d love to hear from you. http://www.weatherheadco.de*
+*Jasmyn Weatherhead has made hundreds of apps. If you need help with yours she’d love to hear from you. http://www.weatherheadcode.com*
